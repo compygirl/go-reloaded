@@ -51,7 +51,7 @@ list of modifications.
 ## Usage/Examples
 Cloning storage to your host
 ```CMD/Terminal 
-git clone git@git.01.alem.school:ayessenb/go-reloaded.git
+git clone git@github.com:compygirl/go-reloaded.git
 ```
 Go to the downloaded repository:
 
